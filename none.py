@@ -11,7 +11,7 @@ if result is not None:
 if result == None:
     pass
 print("pass")
-
+print(type(None))
 
 
 

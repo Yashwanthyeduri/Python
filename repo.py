@@ -1,5 +1,5 @@
-price = 25
-quantity = 4
+price = 400
+quantity = 2
 total = price * quantity
 print("Total cost:", total)
 discount= total *0.1

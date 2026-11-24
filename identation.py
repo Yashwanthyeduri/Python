@@ -22,6 +22,6 @@ if age >= 18:
     elif age >= 60:
         print("You are not yet a senior citizen")
     else:
-        print("you are younger adult")
+        print("you are younth")
 else:
     print("You are a minor")
